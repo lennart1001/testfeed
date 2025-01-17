@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+    <item>
+        <id>33964dee-8d0d-409b-ab64-d76d200b123c</id>
+        <title>UX/UI - Designer (m/w/d)</title>
+        <description>Du bist kreativ und verstehst Nutzerbedürfnisse? Arbeite als UX/UI Designer (m/w/d) bei myposter GmbH in München und entwickle nutzerzentrierte Designs.</description>
+        <location>
+            <city>München</city>
+            <country>DE</country>
+            <postalCode>80335</postalCode>
+        </location>
+        <jobType>PART_TIME</jobType>
+        <salary>
+            <highEnd>70000</highEnd>
+            <lowEnd>50000</lowEnd>
+            <currency>EUR</currency>
+            <period>YEARLY</period>
+        </salary>
+        <skills>
+            <skill>UX Design</skill>
+            <skill>UI Design</skill>
+            <skill>Prototyping</skill>
+            <skill>Figma</skill>
+            <skill>Adobe XD</skill>
+        </skills>
+        <applyUrl>https://jobs.instaffo.com/ux-ui-designer-m-w-d-d76d200b123c</applyUrl>
+    </item>
+    <item>
+        <id>e01cc517-244a-415b-8754-ff1dd7b469f2</id>
+        <title>Buchhalter/in (m/w/d)</title>
+        <description>Eigenständige Bearbeitung der Buchhaltung bei VANOVATE GmbH. Arbeite in Hamburg in einem dynamischen Team.</description>
+        <location>
+            <city>Hamburg</city>
+            <country>DE</country>
+            <postalCode>20095</postalCode>
+        </location>
+        <jobType>FULL_TIME</jobType>
+        <salary>
+            <highEnd>65000</highEnd>
+            <lowEnd>43000</lowEnd>
+            <currency>EUR</currency>
+            <period>YEARLY</period>
+        </salary>
+        <skills>
+            <skill>Accounting</skill>
+            <skill>Microsoft Office</skill>
+            <skill>Datev</skill>
+            <skill>Finanzbuchhaltung</skill>
+        </skills>
+        <applyUrl>https://jobs.instaffo.com/buchhalter-in-m-w-d-ff1dd7b469f2</applyUrl>
+    </item>
+    <item>
+        <id>6f8b9f3e-71ee-4469-8acd-16a5661b0d9d</id>
+        <title>Fullstack Developer (m/w/d)</title>
+        <description>Entwickle innovative Plattformlösungen bei dasilium GmbH in Ludwigsburg. Arbeite in einem agilen Team mit modernster Technologie.</description>
+        <location>
+            <city>Ludwigsburg</city>
+            <country>DE</country>
+            <postalCode>71638</postalCode>
+        </location>
+        <jobType>HYBRID</jobType>
+        <salary>
+            <highEnd>105000</highEnd>
+            <lowEnd>75000</lowEnd>
+            <currency>EUR</currency>
+            <period>YEARLY</period>
+        </salary>
+        <skills>
+            <skill>Java</skill>
+            <skill>Angular</skill>
+            <skill>Git</skill>
+            <skill>Cloud Architecture</skill>
+            <skill>Docker</skill>
+        </skills>
+        <applyUrl>https://jobs.instaffo.com/fullstack-developer-m-w-d-0e13a1b4d218</applyUrl>
+    </item>
+</items>
