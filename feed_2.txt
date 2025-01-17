@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+    <item>
+        <additional_image_link>https://example.com/image1.jpg</additional_image_link>
+        <additional_image_link>https://example.com/image2.jpg</additional_image_link>
+        <additional_image_link>https://example.com/image3.jpg</additional_image_link>
+        <description>UX/UI - Designer (m/w/d) bei myposter GmbH. Arbeiten in München mit Fokus auf nutzerzentrierte Designs.</description>
+        <id>33964dee-8d0d-409b-ab64-d76d200b123c</id>
+        <shipping>
+            <country>DE</country>
+            <price>0 EUR</price>
+        </shipping>
+        <title>UX/UI - Designer (m/w/d)</title>
+    </item>
+    <item>
+        <additional_image_link>https://example.com/image4.jpg</additional_image_link>
+        <additional_image_link>https://example.com/image5.jpg</additional_image_link>
+        <description>Buchhalter/in (m/w/d) bei VANOVATE GmbH. Arbeiten in Hamburg mit spannenden Aufgaben in der Buchhaltung.</description>
+        <id>e01cc517-244a-415b-8754-ff1dd7b469f2</id>
+        <shipping>
+            <country>DE</country>
+            <price>0 EUR</price>
+        </shipping>
+        <title>Buchhalter/in (m/w/d)</title>
+    </item>
+</items>
