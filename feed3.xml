@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+    <item>
+        <id>33964dee-8d0d-409b-ab64-d76d200b123c</id>
+        <image_link>https://example.com/image1.jpg</image_link>
+        <title>UX/UI - Designer (m/w/d)</title>
+        <link>https://myposter.com/jobs/ux-ui-designer</link>
+        <price>0 EUR</price>
+    </item>
+    <item>
+        <id>e01cc517-244a-415b-8754-ff1dd7b469f2</id>
+        <image_link>https://example.com/image4.jpg</image_link>
+        <title>Buchhalter/in (m/w/d)</title>
+        <link>https://vanovate.com/jobs/buchhalter</link>
+        <price>0 EUR</price>
+    </item>
+</items>
